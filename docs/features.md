@@ -56,11 +56,15 @@ Effects respect iPadOS **Reduce Motion**, and a calm static scene is available.
 See any scene without waiting for the weather: **Sunny, Rain, Snow, Thunderstorm, Moonlight, Sunset.**
 The real clock keeps running, your location stays the same, and one tap returns you to live weather.
 
-## Official weather alerts 🗓️ *free for everyone*
+## Official weather alerts 🧪 *free for everyone*
 
-- Official U.S. weather watches, warnings, and advisories for your area.
-- A clear banner that never replaces the clock.
-- Full details from the issuing agency.
+- Official U.S. weather watches, warnings, and advisories for your area, from the National Weather Service.
+- Checked about every 5 minutes while Time Flies is open.
+- A clear banner beside the clock that never covers or replaces it.
+- Full details: the issuing office, severity, urgency, affected area, timing, and the official instructions, word for word.
+- VoiceOver announces new severe and extreme alerts.
+- Choose which alerts appear (all, moderate and above, or severe and above), with a 7-day alert history. **Extreme alerts always appear.**
+- A status indicator shows when alerts haven't been checked recently.
 
 > Time Flies is not a replacement for Wireless Emergency Alerts, NOAA Weather Radio, or local emergency services.
 
@@ -75,7 +79,9 @@ The real clock keeps running, your location stays the same, and one tap returns 
 
 Time Flies is **100% ad-free on every plan, including Free**. Pro unlocks extra features, never basic usability.
 
-| | Free | Pro 🗓️ |
+Pro is available as a Monthly, Annual, or Lifetime plan through the App Store, with Restore Purchases and offer codes 🧪. All Pro plans unlock the same features.
+
+| | Free | Pro |
 |---|:-:|:-:|
 | Always-on, full-screen clock | ✅ | ✅ |
 | Essential clock customization | ✅ | ✅ |
@@ -87,14 +93,14 @@ Time Flies is **100% ad-free on every plan, including Free**. Pro unlocks extra 
 | No ads, ever | ✅ | ✅ |
 | Premium landscapes | | ✅ |
 | Advanced glass and condensation effects | | ✅ |
-| More fonts and customization | | ✅ |
+| More clock fonts 🧪 | | ✅ |
 | Holiday themes | | ✅ |
 | Ambient sounds | | ✅ |
 | Multiple saved locations | | ✅ |
-| Advanced Nightstand settings | | ✅ |
+| Custom Nightstand hours and dimming 🧪 | | ✅ |
 | Smart weather notifications | | ✅ |
 
-Pricing will be announced closer to launch.
+Pro features marked 🧪 are in testing; the rest are planned. Pricing will be announced closer to launch.
 
 ## Optional community connection 🗓️
 

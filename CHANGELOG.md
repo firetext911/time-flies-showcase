@@ -2,6 +2,25 @@
 
 Public progress on **Time Flies: Living Clock™**. Time Flies has not been released yet. These notes follow development toward the first App Store release.
 
+## October 2026: Pro Membership 🧪 *in testing*
+
+- **Three ways to go Pro:** Monthly, Annual, or Lifetime, purchased through the App Store. All plans unlock the same features.
+- **Restore Purchases** and **offer codes**, plus easy subscription management from Settings.
+- **First Pro features:** more clock fonts, and custom Nightstand hours and dimming.
+- **Always free:** official weather alerts, Weather Preview, and the ad-free experience are never behind Pro. If Pro ends, your clock keeps working and simply returns to the free options.
+- Pricing will be announced closer to launch.
+
+## October 2026: Official Weather Alerts 🧪 *in testing*
+
+- **Free official U.S. alerts** from the National Weather Service, for everyone.
+- **A banner beside the clock** that never covers or replaces it, for example "TORNADO WARNING · Official warning active for your selected area".
+- **Full details:** the issuing office, severity, urgency, affected area, timing, and the official instructions, word for word.
+- **Checked about every 5 minutes** while Time Flies is open. Updates and cancellations are applied as they're issued, and expired alerts disappear.
+- **Your choice of alerts:** all, moderate and above, or severe and above, with a 7-day history. Extreme alerts always appear.
+- **VoiceOver** announces new severe and extreme alerts.
+
+*Time Flies is not a replacement for Wireless Emergency Alerts, NOAA Weather Radio, or local emergency services.*
+
 ## October 2026: Live Weather and Preview 🧪 *in testing*
 
 - **ZIP-code weather.** Enter your ZIP code and the scene follows your real local weather, with no GPS or location permission needed.

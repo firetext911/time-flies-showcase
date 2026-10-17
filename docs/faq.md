@@ -13,7 +13,7 @@ iPad, running iPadOS 17 or later. Future TV experiences are in development.
 No. Time Flies is 100% ad-free on every plan, including Free. That will not change.
 
 ### Is it free?
-Yes. The free version includes the always-on clock, essential customization, live weather, the Mountain Cabin scene, Weather Preview, and (when released) official weather alerts. An optional Pro upgrade will add extra features such as premium landscapes, ambient sounds, and holiday themes. Pricing will be announced closer to launch.
+Yes. The free version includes the always-on clock, essential customization, live weather, the Mountain Cabin scene, Weather Preview, and official weather alerts. An optional Pro upgrade (Monthly, Annual, or Lifetime) adds extra features, starting with more clock fonts and custom Nightstand settings, with premium landscapes, ambient sounds, and holiday themes to come. Pricing will be announced closer to launch.
 
 ### Do I need an account?
 No. Open the app, enter a ZIP code, and the clock runs. Connecting any account is optional.
@@ -31,7 +31,7 @@ Yes. The clock always keeps running. Weather needs an internet connection (Wi-Fi
 Yes. **Weather Preview** lets anyone try Sunny, Rain, Snow, Thunderstorm, Moonlight, and Sunset scenes at any time.
 
 ### Can I rely on it for severe weather warnings?
-Official weather alerts are planned as a free, helpful extra. However, Time Flies is **not** an emergency alert system. Always keep Wireless Emergency Alerts enabled, and use NOAA Weather Radio and local authorities for emergencies.
+Official weather alerts are a free, helpful extra. However, Time Flies is **not** an emergency alert system. Always keep Wireless Emergency Alerts enabled, and use NOAA Weather Radio and local authorities for emergencies.
 
 ### Is it available outside the United States?
 The initial release focuses on the United States, since weather uses U.S. ZIP codes.

@@ -12,8 +12,8 @@ Status key: ✅ complete · 🧪 in testing · 🔜 up next · 🗓️ planned �
 | Always-On Clock | Full-screen clock, customization, orientations, Nightstand Mode | ✅ |
 | Mountain Cabin Experience | Window scene, framed and frameless styles, rain on the glass | ✅ |
 | Live Weather and Preview | ZIP-code weather, sunrise and sunset, six Weather Preview presets | 🧪 |
-| Official Weather Alerts | Free official U.S. alerts, banners, details, and preferences | 🔜 |
-| Pro | Free and Pro plans, purchases, and restore | 🗓️ |
+| Official Weather Alerts | Free official U.S. alerts, banners, details, and preferences | 🧪 |
+| Pro | Monthly, Annual, and Lifetime plans, restore, offer codes, first Pro features | 🧪 |
 | Optional community connection | Optional FireTEXT®411 account linking for authorized notices | 🗓️ |
 | Premium experience | Premium landscapes, advanced glass, holiday themes, ambient sounds, smart weather notifications | 🗓️ |
 | Release preparation | Performance, accessibility, privacy, and App Store review | 🗓️ |

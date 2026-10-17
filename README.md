@@ -49,8 +49,9 @@ Final iPad screenshots will be added here once the scenery artwork is final. See
 | Always-On Clock | ✅ Complete |
 | Mountain Cabin Experience | ✅ Complete |
 | Live Weather and Preview | 🧪 In testing |
-| Official Weather Alerts | 🔜 Up next |
-| Pro features | 🗓️ Planned |
+| Official Weather Alerts | 🧪 In testing |
+| Pro membership | 🧪 In testing |
+| Premium scenery and sounds | 🗓️ Planned |
 
 Full details are in the [roadmap](docs/roadmap.md) and the [changelog](CHANGELOG.md).
 
