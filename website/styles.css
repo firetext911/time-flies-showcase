@@ -300,6 +300,30 @@ p { margin: 0 0 1em; }
 .footer__tag { font-family: var(--font-tagline); font-style: italic; color: var(--gold); font-size: 1.1rem; }
 .footer__legal { max-width: 640px; margin: 18px auto 0; font-size: .78rem; opacity: .6; }
 
+/* Privacy policy and other legal pages */
+.legal-hero { background: linear-gradient(180deg, #011a2b, var(--midnight)); color: var(--cream); padding: 64px 0 48px; text-align: center; }
+.legal-hero h1 { font-size: clamp(2.2rem, 1.6rem + 2.4vw, 3.2rem); margin-bottom: .3em; }
+.legal-hero__meta { opacity: .8; font-size: .95rem; margin: 0; }
+.legal { padding-top: 48px; }
+.legal h2 { color: var(--midnight); font-size: clamp(1.35rem, 1.1rem + .8vw, 1.7rem); margin-top: 2.2em; scroll-margin-top: 84px; }
+.legal ul:not(.checks) { padding-left: 1.3em; }
+.legal li { margin-bottom: .4em; }
+.legal a { color: var(--midnight); font-weight: 600; }
+.legal-summary { margin: 32px 0; padding: 28px; border-radius: var(--radius); background: #fff; border: 1px solid rgba(11,45,74,.12); box-shadow: 0 10px 28px rgba(11,45,74,.08); }
+.legal-summary h2 { margin-top: 0; }
+.legal-toc { margin: 0 0 8px; padding: 20px 24px; border-left: 3px solid var(--gold); background: rgba(212,175,55,.07); border-radius: 0 12px 12px 0; }
+.legal-toc__title { font-weight: 600; margin-bottom: .4em; }
+.legal-toc ol { margin: 0; padding-left: 1.4em; columns: 2 16rem; column-gap: 2rem; }
+.legal-toc li { margin-bottom: .25em; break-inside: avoid; }
+.table-wrap { overflow-x: auto; margin: 0 0 1.2em; border-radius: 12px; border: 1px solid rgba(11,45,74,.12); }
+.legal table { width: 100%; border-collapse: collapse; font-size: .95rem; min-width: 560px; background: #fff; }
+.legal th, .legal td { text-align: left; vertical-align: top; padding: 12px 14px; border-bottom: 1px solid rgba(11,45,74,.1); }
+.legal th { background: var(--midnight); color: var(--cream); font-weight: 600; }
+.legal tr:last-child td { border-bottom: 0; }
+.legal-address { font-style: normal; line-height: 1.8; padding: 20px 24px; background: #fff; border-radius: 12px; border: 1px solid rgba(11,45,74,.12); display: inline-block; }
+.legal-back { margin-top: 40px; }
+.nav__links a[aria-current="page"] { color: var(--gold); }
+
 /* Large screens and TV browsers (10-foot viewing): scale everything up from the root size. */
 @media (min-width: 1800px) {
   html { font-size: 20px; }

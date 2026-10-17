@@ -76,7 +76,7 @@ Time Flies: Living Clock™ is in active development for iPad (iPadOS 17 or late
 - No GPS: weather uses the ZIP code you enter
 - Your settings are stored on your iPad
 
-A full privacy policy will be published before launch.
+Read the full [privacy policy](https://timeflies.live/privacy.html).
 
 ## Contact
 
