@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="https://timeflies.live"><strong>timeflies.live</strong></a> ·
   <a href="#coming-soon">Coming Soon to the App Store</a> ·
   <a href="docs/features.md">Features</a> ·
   <a href="docs/roadmap.md">Roadmap</a> ·
@@ -66,7 +67,7 @@ Please read our [Community Guidelines](CODE_OF_CONDUCT.md) before posting.
 
 ## Coming soon
 
-Time Flies: Living Clock™ is in active development for iPad (iPadOS 17 or later). It will be available on the App Store. Watch the [Announcements](../../discussions/categories/announcements) category to hear first.
+Time Flies: Living Clock™ is in active development for iPad (iPadOS 17 or later). It will be available on the App Store. Visit **[timeflies.live](https://timeflies.live)**, and watch the [Announcements](../../discussions/categories/announcements) category to hear first.
 
 ## Privacy
 
