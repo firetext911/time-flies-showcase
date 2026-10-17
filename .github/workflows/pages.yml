@@ -1,0 +1,34 @@
+# Deploys website/ (plus assets/) to GitHub Pages.
+# Manual only: nothing deploys on push. Run it from the Actions tab once publication is approved.
+name: Deploy website
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for files that must never be public
+        run: sh scripts/public-safety-check.sh
+      - name: Build site
+        run: sh scripts/build-site.sh
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

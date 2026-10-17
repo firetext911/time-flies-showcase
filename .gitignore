@@ -1,0 +1,8 @@
+_site/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+PUBLIC_RELEASE_AUDIT.md
+.public-safety-patterns

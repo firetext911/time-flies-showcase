@@ -1,0 +1,18 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask anything about **Time Flies: Living Clock™**. ❓
+        Check the [FAQ](https://github.com/firetext911/time-flies-showcase/blob/main/docs/faq.md) first, since your answer may already be there.
+        **Security concern?** Please report it privately. See SECURITY.md.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: iPad model and iPadOS version (if relevant)
+      placeholder: "e.g. iPad Air (M2), iPadOS 18.1"
