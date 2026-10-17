@@ -44,4 +44,4 @@ When you post an idea or feedback in Discussions, you agree that FireTEXT® Disp
 
 This repository is provided “as is”, without warranty of any kind.
 
-For permission requests, start a conversation in [Discussions](../../discussions).
+For permission requests, email Time Flies at [timefliesbyfiretext@gmail.com](mailto:timefliesbyfiretext@gmail.com).

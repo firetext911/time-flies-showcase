@@ -78,6 +78,10 @@ Time Flies: Living Clock™ is in active development for iPad (iPadOS 17 or late
 
 A full privacy policy will be published before launch.
 
+## Contact
+
+Email Time Flies at **[timefliesbyfiretext@gmail.com](mailto:timefliesbyfiretext@gmail.com)**, or start a conversation in [Discussions](../../discussions).
+
 ## Security
 
 Found a security concern? Please follow [SECURITY.md](SECURITY.md). Do not post it publicly.

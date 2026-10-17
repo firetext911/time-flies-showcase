@@ -284,6 +284,10 @@ p { margin: 0 0 1em; }
 .two-col { display: grid; gap: 48px; }
 @media (min-width: 860px) { .two-col { grid-template-columns: 1fr 1fr; } }
 .two-col a { color: var(--midnight); font-weight: 600; }
+.contact-email { font-size: 1.1rem; }
+.contact-email a { overflow-wrap: anywhere; }
+.footer__email { color: var(--gold); text-decoration: none; }
+.footer__email:hover { text-decoration: underline; }
 
 /* Footer */
 .footer { background: var(--deep-navy); color: rgba(250,249,246,.85); padding: 56px 0 40px; text-align: center; font-size: .9rem; }

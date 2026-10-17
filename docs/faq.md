@@ -45,5 +45,8 @@ Post in [Discussions → Ideas](../../../discussions/categories/ideas). We read 
 ### How do I report a bug or security issue?
 Ask in [Q&A](../../../discussions/categories/q-a) for general problems. For security concerns, follow [SECURITY.md](../SECURITY.md) and report privately.
 
+### How do I contact you?
+Email Time Flies at [timefliesbyfiretext@gmail.com](mailto:timefliesbyfiretext@gmail.com), or post in [Discussions](../../../discussions).
+
 ### Who makes Time Flies?
 Time Flies: Living Clock™ is *A 411 Community Experience*, developed by FireTEXT® Dispatch Solutions.

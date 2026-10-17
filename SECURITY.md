@@ -9,6 +9,8 @@ If you believe you have found a security issue in the Time Flies app, its websit
 1. Go to the **[Security tab](../../security)** of this repository.
 2. Choose **Report a vulnerability** to open a private advisory.
 
+No GitHub account? Email **[timefliesbyfiretext@gmail.com](mailto:timefliesbyfiretext@gmail.com)** with "Security" in the subject line instead.
+
 Please **do not** report security issues in Discussions, issues, or any other public place.
 
 Helpful details include:
