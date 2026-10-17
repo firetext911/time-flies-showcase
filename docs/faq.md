@@ -7,7 +7,7 @@ An always-on, full-screen clock for iPad. The clock sits in front of a living wi
 It's in active development. Follow [Announcements](../../../discussions/categories/announcements) to hear about the launch first.
 
 ### Which devices are supported?
-iPad, running iPadOS 17 or later.
+iPad, running iPadOS 17 or later. Future TV experiences are in development.
 
 ### Will it have ads?
 No. Time Flies is 100% ad-free on every plan, including Free. That will not change.
